@@ -55,11 +55,3 @@ You can try to open file `build/index.html` using web browser.
 ### v1.0
 
 * Initial release of HTML Editor
-
-## Author
-
-This application is written by Rio Astamal \<rio@rioastamal.net>
-
-## License
-
-This application is open source licensed under [MIT license](http://opensource.org/licenses/MIT).
